@@ -1,0 +1,7 @@
+# Llaves y credenciales: nunca al repositorio
+*llave*.json
+*key*.json
+*credential*.json
+service-account*.json
+.env
+node_modules/

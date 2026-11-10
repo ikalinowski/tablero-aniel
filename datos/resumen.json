@@ -1,0 +1,3687 @@
+{
+ "generado": "2026-11-10T22:07:40.047Z",
+ "sitio": "anielnutricionista.com",
+ "propiedad": "539501774",
+ "periodos": {
+  "7": {
+   "dias": 7,
+   "rango": {
+    "startDate": "2026-11-03",
+    "endDate": "2026-11-09"
+   },
+   "comparadoCon": {
+    "startDate": "2026-10-27",
+    "endDate": "2026-11-02"
+   },
+   "kpi": {
+    "activeUsers": 129,
+    "newUsers": 118,
+    "sessions": 154,
+    "engagedSessions": 140,
+    "screenPageViews": 332,
+    "engagementRate": 0.9090909090909091,
+    "userEngagementDuration": 6888
+   },
+   "kpiAntes": {
+    "activeUsers": 78,
+    "newUsers": 68,
+    "sessions": 109,
+    "engagedSessions": 84,
+    "screenPageViews": 229,
+    "engagementRate": 0.7706422018348624,
+    "userEngagementDuration": 5959
+   },
+   "eventos": [
+    {
+     "eventName": "section_view",
+     "eventCount": 602,
+     "totalUsers": 130
+    },
+    {
+     "eventName": "page_view",
+     "eventCount": 332,
+     "totalUsers": 130
+    },
+    {
+     "eventName": "scroll_depth",
+     "eventCount": 275,
+     "totalUsers": 91
+    },
+    {
+     "eventName": "view_item",
+     "eventCount": 254,
+     "totalUsers": 48
+    },
+    {
+     "eventName": "cookie_consent",
+     "eventCount": 122,
+     "totalUsers": 119
+    },
+    {
+     "eventName": "cta_click",
+     "eventCount": 51,
+     "totalUsers": 43
+    },
+    {
+     "eventName": "generate_lead",
+     "eventCount": 43,
+     "totalUsers": 35
+    },
+    {
+     "eventName": "whatsapp_click",
+     "eventCount": 43,
+     "totalUsers": 35
+    },
+    {
+     "eventName": "menu_click",
+     "eventCount": 24,
+     "totalUsers": 20
+    },
+    {
+     "eventName": "select_item",
+     "eventCount": 21,
+     "totalUsers": 17
+    },
+    {
+     "eventName": "faq_open",
+     "eventCount": 16,
+     "totalUsers": 6
+    },
+    {
+     "eventName": "testimonial_navigation",
+     "eventCount": 13,
+     "totalUsers": 5
+    },
+    {
+     "eventName": "social_click",
+     "eventCount": 5,
+     "totalUsers": 4
+    }
+   ],
+   "eventosAntes": [
+    {
+     "eventName": "section_view",
+     "eventCount": 403,
+     "totalUsers": 77
+    },
+    {
+     "eventName": "scroll_depth",
+     "eventCount": 237,
+     "totalUsers": 56
+    },
+    {
+     "eventName": "page_view",
+     "eventCount": 229,
+     "totalUsers": 77
+    },
+    {
+     "eventName": "view_item",
+     "eventCount": 205,
+     "totalUsers": 42
+    },
+    {
+     "eventName": "cookie_consent",
+     "eventCount": 71,
+     "totalUsers": 69
+    },
+    {
+     "eventName": "cta_click",
+     "eventCount": 36,
+     "totalUsers": 29
+    },
+    {
+     "eventName": "generate_lead",
+     "eventCount": 34,
+     "totalUsers": 28
+    },
+    {
+     "eventName": "whatsapp_click",
+     "eventCount": 34,
+     "totalUsers": 28
+    },
+    {
+     "eventName": "menu_click",
+     "eventCount": 19,
+     "totalUsers": 13
+    },
+    {
+     "eventName": "select_item",
+     "eventCount": 18,
+     "totalUsers": 15
+    },
+    {
+     "eventName": "faq_open",
+     "eventCount": 14,
+     "totalUsers": 5
+    },
+    {
+     "eventName": "testimonial_navigation",
+     "eventCount": 13,
+     "totalUsers": 6
+    },
+    {
+     "eventName": "social_click",
+     "eventCount": 1,
+     "totalUsers": 1
+    }
+   ],
+   "contactos": 35,
+   "contactosAntes": 28,
+   "porDia": [
+    {
+     "date": "20261103",
+     "activeUsers": 16,
+     "sessions": 16,
+     "screenPageViews": 34
+    },
+    {
+     "date": "20261104",
+     "activeUsers": 52,
+     "sessions": 57,
+     "screenPageViews": 127
+    },
+    {
+     "date": "20261105",
+     "activeUsers": 17,
+     "sessions": 18,
+     "screenPageViews": 40
+    },
+    {
+     "date": "20261106",
+     "activeUsers": 11,
+     "sessions": 12,
+     "screenPageViews": 31
+    },
+    {
+     "date": "20261107",
+     "activeUsers": 10,
+     "sessions": 14,
+     "screenPageViews": 30
+    },
+    {
+     "date": "20261108",
+     "activeUsers": 12,
+     "sessions": 18,
+     "screenPageViews": 33
+    },
+    {
+     "date": "20261109",
+     "activeUsers": 16,
+     "sessions": 19,
+     "screenPageViews": 37
+    }
+   ],
+   "leadsPorDia": [
+    {
+     "date": "20261103",
+     "totalUsers": 4
+    },
+    {
+     "date": "20261104",
+     "totalUsers": 10
+    },
+    {
+     "date": "20261105",
+     "totalUsers": 7
+    },
+    {
+     "date": "20261106",
+     "totalUsers": 2
+    },
+    {
+     "date": "20261107",
+     "totalUsers": 5
+    },
+    {
+     "date": "20261108",
+     "totalUsers": 4
+    },
+    {
+     "date": "20261109",
+     "totalUsers": 4
+    }
+   ],
+   "origen": [
+    {
+     "sessionSource": "(direct)",
+     "sessionMedium": "(none)",
+     "sessionDefaultChannelGroup": "Direct",
+     "sessions": 80,
+     "activeUsers": 71,
+     "engagedSessions": 72
+    },
+    {
+     "sessionSource": "l.instagram.com",
+     "sessionMedium": "referral",
+     "sessionDefaultChannelGroup": "Organic Social",
+     "sessions": 57,
+     "activeUsers": 51,
+     "engagedSessions": 57
+    },
+    {
+     "sessionSource": "google",
+     "sessionMedium": "organic",
+     "sessionDefaultChannelGroup": "Organic Search",
+     "sessions": 6,
+     "activeUsers": 6,
+     "engagedSessions": 6
+    },
+    {
+     "sessionSource": "ig",
+     "sessionMedium": "social",
+     "sessionDefaultChannelGroup": "Organic Social",
+     "sessions": 6,
+     "activeUsers": 1,
+     "engagedSessions": 1
+    },
+    {
+     "sessionSource": "l.wl.co",
+     "sessionMedium": "referral",
+     "sessionDefaultChannelGroup": "Referral",
+     "sessions": 5,
+     "activeUsers": 1,
+     "engagedSessions": 4
+    }
+   ],
+   "leadsPorOrigen": [
+    {
+     "sessionSource": "(direct)",
+     "sessionMedium": "(none)",
+     "sessionDefaultChannelGroup": "Direct",
+     "totalUsers": 22
+    },
+    {
+     "sessionSource": "l.instagram.com",
+     "sessionMedium": "referral",
+     "sessionDefaultChannelGroup": "Organic Social",
+     "totalUsers": 12
+    },
+    {
+     "sessionSource": "l.wl.co",
+     "sessionMedium": "referral",
+     "sessionDefaultChannelGroup": "Referral",
+     "totalUsers": 1
+    }
+   ],
+   "paginas": [
+    {
+     "pagePath": "/",
+     "screenPageViews": 243,
+     "activeUsers": 113,
+     "userEngagementDuration": 2525
+    },
+    {
+     "pagePath": "/servicios",
+     "screenPageViews": 89,
+     "activeUsers": 48,
+     "userEngagementDuration": 4363
+    }
+   ],
+   "entrada": [
+    {
+     "landingPage": "/",
+     "sessions": 125,
+     "engagedSessions": 115
+    },
+    {
+     "landingPage": "/servicios",
+     "sessions": 27,
+     "engagedSessions": 25
+    },
+    {
+     "landingPage": "(not set)",
+     "sessions": 2,
+     "engagedSessions": 0
+    }
+   ],
+   "vieronPlanes": 48,
+   "vieronPlanesAntes": 41,
+   "planes": [
+    {
+     "itemName": "FitnessLife Premium Online",
+     "itemsViewed": 60,
+     "itemsClickedInList": 4
+    },
+    {
+     "itemName": "FitnessLife Online (Formulario)",
+     "itemsViewed": 55,
+     "itemsClickedInList": 3
+    },
+    {
+     "itemName": "FitnessLife Premium Presencial",
+     "itemsViewed": 54,
+     "itemsClickedInList": 9
+    },
+    {
+     "itemName": "Plan Gold Online",
+     "itemsViewed": 46,
+     "itemsClickedInList": 2
+    },
+    {
+     "itemName": "Plan Platinum Presencial",
+     "itemsViewed": 39,
+     "itemsClickedInList": 3
+    }
+   ],
+   "leadsPorPlan": [
+    {
+     "plan_name": "(not set)",
+     "eventCount": 43,
+     "totalUsers": 35
+    }
+   ],
+   "secciones": [
+    {
+     "section_name": "(not set)",
+     "totalUsers": 130,
+     "eventCount": 602
+    }
+   ],
+   "tiempoSecciones": [
+    {
+     "section_name": "(not set)",
+     "engaged_seconds": 0,
+     "eventCount": 621
+    }
+   ],
+   "botones": [
+    {
+     "cta_location": "(not set)",
+     "eventCount": 43,
+     "totalUsers": 35
+    }
+   ],
+   "botonesPorPagina": [
+    {
+     "pagePath": "/servicios",
+     "eventCount": 25,
+     "totalUsers": 18
+    },
+    {
+     "pagePath": "/",
+     "eventCount": 18,
+     "totalUsers": 17
+    }
+   ],
+   "faq": [
+    {
+     "faq_question": "(not set)",
+     "eventCount": 16,
+     "totalUsers": 6
+    }
+   ],
+   "scroll": [
+    {
+     "contentGroup": "inicio",
+     "percentScrolled": "25",
+     "totalUsers": 57
+    },
+    {
+     "contentGroup": "servicios",
+     "percentScrolled": "25",
+     "totalUsers": 45
+    },
+    {
+     "contentGroup": "servicios",
+     "percentScrolled": "50",
+     "totalUsers": 37
+    },
+    {
+     "contentGroup": "inicio",
+     "percentScrolled": "50",
+     "totalUsers": 34
+    },
+    {
+     "contentGroup": "inicio",
+     "percentScrolled": "75",
+     "totalUsers": 28
+    },
+    {
+     "contentGroup": "servicios",
+     "percentScrolled": "75",
+     "totalUsers": 26
+    },
+    {
+     "contentGroup": "inicio",
+     "percentScrolled": "100",
+     "totalUsers": 12
+    },
+    {
+     "contentGroup": "servicios",
+     "percentScrolled": "100",
+     "totalUsers": 3
+    }
+   ],
+   "dispositivos": [
+    {
+     "deviceCategory": "mobile",
+     "activeUsers": 123,
+     "sessions": 143
+    },
+    {
+     "deviceCategory": "desktop",
+     "activeUsers": 4,
+     "sessions": 9
+    },
+    {
+     "deviceCategory": "tablet",
+     "activeUsers": 2,
+     "sessions": 2
+    }
+   ],
+   "ciudades": [
+    {
+     "city": "(not set)",
+     "country": "Peru",
+     "activeUsers": 68
+    },
+    {
+     "city": "Piura",
+     "country": "Peru",
+     "activeUsers": 7
+    },
+    {
+     "city": "Arequipa",
+     "country": "Peru",
+     "activeUsers": 5
+    },
+    {
+     "city": "Chiclayo",
+     "country": "Peru",
+     "activeUsers": 4
+    },
+    {
+     "city": "Huancayo",
+     "country": "Peru",
+     "activeUsers": 4
+    },
+    {
+     "city": "Cusco",
+     "country": "Peru",
+     "activeUsers": 3
+    },
+    {
+     "city": "(not set)",
+     "country": "Iraq",
+     "activeUsers": 2
+    },
+    {
+     "city": "Baghdad",
+     "country": "Iraq",
+     "activeUsers": 2
+    },
+    {
+     "city": "Jose Luis Bustamante",
+     "country": "Peru",
+     "activeUsers": 2
+    },
+    {
+     "city": "Paucarpata",
+     "country": "Peru",
+     "activeUsers": 2
+    },
+    {
+     "city": "Trujillo",
+     "country": "Peru",
+     "activeUsers": 2
+    },
+    {
+     "city": "(not set)",
+     "country": "Bangladesh",
+     "activeUsers": 1
+    },
+    {
+     "city": "(not set)",
+     "country": "Chile",
+     "activeUsers": 1
+    },
+    {
+     "city": "(not set)",
+     "country": "Ireland",
+     "activeUsers": 1
+    },
+    {
+     "city": "(not set)",
+     "country": "Türkiye",
+     "activeUsers": 1
+    },
+    {
+     "city": "34698",
+     "country": "Indonesia",
+     "activeUsers": 1
+    },
+    {
+     "city": "Aberdeen",
+     "country": "United States",
+     "activeUsers": 1
+    },
+    {
+     "city": "Ashburn",
+     "country": "United States",
+     "activeUsers": 1
+    },
+    {
+     "city": "Cayma",
+     "country": "Peru",
+     "activeUsers": 1
+    },
+    {
+     "city": "Chattogram",
+     "country": "Bangladesh",
+     "activeUsers": 1
+    }
+   ],
+   "paises": [
+    {
+     "country": "Peru",
+     "activeUsers": 101
+    },
+    {
+     "country": "Iraq",
+     "activeUsers": 4
+    },
+    {
+     "country": "Chile",
+     "activeUsers": 3
+    },
+    {
+     "country": "United States",
+     "activeUsers": 3
+    },
+    {
+     "country": "Bahrain",
+     "activeUsers": 2
+    },
+    {
+     "country": "Bangladesh",
+     "activeUsers": 2
+    },
+    {
+     "country": "Mexico",
+     "activeUsers": 2
+    },
+    {
+     "country": "Colombia",
+     "activeUsers": 1
+    },
+    {
+     "country": "Ecuador",
+     "activeUsers": 1
+    },
+    {
+     "country": "Georgia",
+     "activeUsers": 1
+    },
+    {
+     "country": "Guatemala",
+     "activeUsers": 1
+    },
+    {
+     "country": "India",
+     "activeUsers": 1
+    },
+    {
+     "country": "Indonesia",
+     "activeUsers": 1
+    },
+    {
+     "country": "Iran",
+     "activeUsers": 1
+    },
+    {
+     "country": "Ireland",
+     "activeUsers": 1
+    },
+    {
+     "country": "Nicaragua",
+     "activeUsers": 1
+    },
+    {
+     "country": "Pakistan",
+     "activeUsers": 1
+    },
+    {
+     "country": "Spain",
+     "activeUsers": 1
+    },
+    {
+     "country": "Türkiye",
+     "activeUsers": 1
+    }
+   ],
+   "horas": [
+    {
+     "hour": "0",
+     "sessions": 4
+    },
+    {
+     "hour": "1",
+     "sessions": 4
+    },
+    {
+     "hour": "10",
+     "sessions": 7
+    },
+    {
+     "hour": "11",
+     "sessions": 9
+    },
+    {
+     "hour": "12",
+     "sessions": 7
+    },
+    {
+     "hour": "13",
+     "sessions": 6
+    },
+    {
+     "hour": "14",
+     "sessions": 14
+    },
+    {
+     "hour": "15",
+     "sessions": 9
+    },
+    {
+     "hour": "16",
+     "sessions": 8
+    },
+    {
+     "hour": "17",
+     "sessions": 7
+    },
+    {
+     "hour": "18",
+     "sessions": 10
+    },
+    {
+     "hour": "19",
+     "sessions": 5
+    },
+    {
+     "hour": "2",
+     "sessions": 3
+    },
+    {
+     "hour": "20",
+     "sessions": 9
+    },
+    {
+     "hour": "21",
+     "sessions": 9
+    },
+    {
+     "hour": "22",
+     "sessions": 11
+    },
+    {
+     "hour": "23",
+     "sessions": 8
+    },
+    {
+     "hour": "3",
+     "sessions": 2
+    },
+    {
+     "hour": "5",
+     "sessions": 1
+    },
+    {
+     "hour": "6",
+     "sessions": 3
+    },
+    {
+     "hour": "7",
+     "sessions": 6
+    },
+    {
+     "hour": "8",
+     "sessions": 13
+    },
+    {
+     "hour": "9",
+     "sessions": 6
+    }
+   ],
+   "diasSemana": [
+    {
+     "dayOfWeek": "0",
+     "sessions": 18
+    },
+    {
+     "dayOfWeek": "1",
+     "sessions": 19
+    },
+    {
+     "dayOfWeek": "2",
+     "sessions": 16
+    },
+    {
+     "dayOfWeek": "3",
+     "sessions": 57
+    },
+    {
+     "dayOfWeek": "4",
+     "sessions": 18
+    },
+    {
+     "dayOfWeek": "5",
+     "sessions": 12
+    },
+    {
+     "dayOfWeek": "6",
+     "sessions": 14
+    }
+   ],
+   "nuevos": [
+    {
+     "newVsReturning": "new",
+     "activeUsers": 118
+    },
+    {
+     "newVsReturning": "returning",
+     "activeUsers": 18
+    }
+   ],
+   "redes": [
+    {
+     "social_network": "(not set)",
+     "eventCount": 5
+    }
+   ],
+   "formularios": []
+  },
+  "28": {
+   "dias": 28,
+   "rango": {
+    "startDate": "2026-10-13",
+    "endDate": "2026-11-09"
+   },
+   "comparadoCon": {
+    "startDate": "2026-09-15",
+    "endDate": "2026-10-12"
+   },
+   "kpi": {
+    "activeUsers": 315,
+    "newUsers": 294,
+    "sessions": 416,
+    "engagedSessions": 361,
+    "screenPageViews": 940,
+    "engagementRate": 0.8677884615384616,
+    "userEngagementDuration": 22973
+   },
+   "kpiAntes": {
+    "activeUsers": 310,
+    "newUsers": 295,
+    "sessions": 390,
+    "engagedSessions": 342,
+    "screenPageViews": 875,
+    "engagementRate": 0.8769230769230769,
+    "userEngagementDuration": 19717
+   },
+   "eventos": [
+    {
+     "eventName": "section_view",
+     "eventCount": 1730,
+     "totalUsers": 316
+    },
+    {
+     "eventName": "page_view",
+     "eventCount": 940,
+     "totalUsers": 317
+    },
+    {
+     "eventName": "scroll_depth",
+     "eventCount": 853,
+     "totalUsers": 227
+    },
+    {
+     "eventName": "view_item",
+     "eventCount": 779,
+     "totalUsers": 150
+    },
+    {
+     "eventName": "cookie_consent",
+     "eventCount": 309,
+     "totalUsers": 301
+    },
+    {
+     "eventName": "cta_click",
+     "eventCount": 169,
+     "totalUsers": 125
+    },
+    {
+     "eventName": "generate_lead",
+     "eventCount": 141,
+     "totalUsers": 107
+    },
+    {
+     "eventName": "whatsapp_click",
+     "eventCount": 141,
+     "totalUsers": 107
+    },
+    {
+     "eventName": "menu_click",
+     "eventCount": 89,
+     "totalUsers": 55
+    },
+    {
+     "eventName": "testimonial_navigation",
+     "eventCount": 72,
+     "totalUsers": 20
+    },
+    {
+     "eventName": "select_item",
+     "eventCount": 71,
+     "totalUsers": 52
+    },
+    {
+     "eventName": "faq_open",
+     "eventCount": 65,
+     "totalUsers": 26
+    },
+    {
+     "eventName": "social_click",
+     "eventCount": 12,
+     "totalUsers": 10
+    }
+   ],
+   "eventosAntes": [
+    {
+     "eventName": "section_view",
+     "eventCount": 1195,
+     "totalUsers": 241
+    },
+    {
+     "eventName": "page_view",
+     "eventCount": 875,
+     "totalUsers": 310
+    },
+    {
+     "eventName": "view_item",
+     "eventCount": 593,
+     "totalUsers": 127
+    },
+    {
+     "eventName": "scroll_depth",
+     "eventCount": 569,
+     "totalUsers": 178
+    },
+    {
+     "eventName": "cookie_consent",
+     "eventCount": 236,
+     "totalUsers": 230
+    },
+    {
+     "eventName": "cta_click",
+     "eventCount": 170,
+     "totalUsers": 137
+    },
+    {
+     "eventName": "whatsapp_click",
+     "eventCount": 121,
+     "totalUsers": 92
+    },
+    {
+     "eventName": "generate_lead",
+     "eventCount": 100,
+     "totalUsers": 74
+    },
+    {
+     "eventName": "menu_click",
+     "eventCount": 90,
+     "totalUsers": 41
+    },
+    {
+     "eventName": "faq_open",
+     "eventCount": 47,
+     "totalUsers": 22
+    },
+    {
+     "eventName": "select_item",
+     "eventCount": 45,
+     "totalUsers": 35
+    },
+    {
+     "eventName": "testimonial_navigation",
+     "eventCount": 42,
+     "totalUsers": 10
+    },
+    {
+     "eventName": "social_click",
+     "eventCount": 7,
+     "totalUsers": 7
+    },
+    {
+     "eventName": "form_begin",
+     "eventCount": 1,
+     "totalUsers": 1
+    },
+    {
+     "eventName": "form_error",
+     "eventCount": 1,
+     "totalUsers": 1
+    }
+   ],
+   "contactos": 107,
+   "contactosAntes": 92,
+   "porDia": [
+    {
+     "date": "20261013",
+     "activeUsers": 10,
+     "sessions": 12,
+     "screenPageViews": 35
+    },
+    {
+     "date": "20261014",
+     "activeUsers": 4,
+     "sessions": 4,
+     "screenPageViews": 10
+    },
+    {
+     "date": "20261015",
+     "activeUsers": 15,
+     "sessions": 17,
+     "screenPageViews": 36
+    },
+    {
+     "date": "20261016",
+     "activeUsers": 8,
+     "sessions": 11,
+     "screenPageViews": 22
+    },
+    {
+     "date": "20261017",
+     "activeUsers": 9,
+     "sessions": 12,
+     "screenPageViews": 28
+    },
+    {
+     "date": "20261018",
+     "activeUsers": 4,
+     "sessions": 4,
+     "screenPageViews": 10
+    },
+    {
+     "date": "20261019",
+     "activeUsers": 13,
+     "sessions": 14,
+     "screenPageViews": 29
+    },
+    {
+     "date": "20261020",
+     "activeUsers": 17,
+     "sessions": 18,
+     "screenPageViews": 61
+    },
+    {
+     "date": "20261021",
+     "activeUsers": 12,
+     "sessions": 16,
+     "screenPageViews": 33
+    },
+    {
+     "date": "20261022",
+     "activeUsers": 6,
+     "sessions": 10,
+     "screenPageViews": 30
+    },
+    {
+     "date": "20261023",
+     "activeUsers": 12,
+     "sessions": 15,
+     "screenPageViews": 31
+    },
+    {
+     "date": "20261024",
+     "activeUsers": 2,
+     "sessions": 2,
+     "screenPageViews": 8
+    },
+    {
+     "date": "20261025",
+     "activeUsers": 5,
+     "sessions": 5,
+     "screenPageViews": 20
+    },
+    {
+     "date": "20261026",
+     "activeUsers": 11,
+     "sessions": 13,
+     "screenPageViews": 26
+    },
+    {
+     "date": "20261027",
+     "activeUsers": 14,
+     "sessions": 17,
+     "screenPageViews": 29
+    },
+    {
+     "date": "20261028",
+     "activeUsers": 28,
+     "sessions": 38,
+     "screenPageViews": 86
+    },
+    {
+     "date": "20261029",
+     "activeUsers": 14,
+     "sessions": 21,
+     "screenPageViews": 38
+    },
+    {
+     "date": "20261030",
+     "activeUsers": 7,
+     "sessions": 11,
+     "screenPageViews": 24
+    },
+    {
+     "date": "20261031",
+     "activeUsers": 7,
+     "sessions": 7,
+     "screenPageViews": 18
+    },
+    {
+     "date": "20261101",
+     "activeUsers": 2,
+     "sessions": 4,
+     "screenPageViews": 6
+    },
+    {
+     "date": "20261102",
+     "activeUsers": 9,
+     "sessions": 12,
+     "screenPageViews": 28
+    },
+    {
+     "date": "20261103",
+     "activeUsers": 16,
+     "sessions": 16,
+     "screenPageViews": 34
+    },
+    {
+     "date": "20261104",
+     "activeUsers": 52,
+     "sessions": 57,
+     "screenPageViews": 127
+    },
+    {
+     "date": "20261105",
+     "activeUsers": 17,
+     "sessions": 18,
+     "screenPageViews": 40
+    },
+    {
+     "date": "20261106",
+     "activeUsers": 11,
+     "sessions": 12,
+     "screenPageViews": 31
+    },
+    {
+     "date": "20261107",
+     "activeUsers": 10,
+     "sessions": 14,
+     "screenPageViews": 30
+    },
+    {
+     "date": "20261108",
+     "activeUsers": 12,
+     "sessions": 18,
+     "screenPageViews": 33
+    },
+    {
+     "date": "20261109",
+     "activeUsers": 16,
+     "sessions": 19,
+     "screenPageViews": 37
+    }
+   ],
+   "leadsPorDia": [
+    {
+     "date": "20261013",
+     "totalUsers": 4
+    },
+    {
+     "date": "20261014",
+     "totalUsers": 1
+    },
+    {
+     "date": "20261015",
+     "totalUsers": 8
+    },
+    {
+     "date": "20261016",
+     "totalUsers": 2
+    },
+    {
+     "date": "20261017",
+     "totalUsers": 1
+    },
+    {
+     "date": "20261018",
+     "totalUsers": 1
+    },
+    {
+     "date": "20261019",
+     "totalUsers": 4
+    },
+    {
+     "date": "20261020",
+     "totalUsers": 7
+    },
+    {
+     "date": "20261021",
+     "totalUsers": 4
+    },
+    {
+     "date": "20261022",
+     "totalUsers": 3
+    },
+    {
+     "date": "20261023",
+     "totalUsers": 4
+    },
+    {
+     "date": "20261025",
+     "totalUsers": 4
+    },
+    {
+     "date": "20261026",
+     "totalUsers": 3
+    },
+    {
+     "date": "20261027",
+     "totalUsers": 3
+    },
+    {
+     "date": "20261028",
+     "totalUsers": 9
+    },
+    {
+     "date": "20261029",
+     "totalUsers": 5
+    },
+    {
+     "date": "20261030",
+     "totalUsers": 5
+    },
+    {
+     "date": "20261031",
+     "totalUsers": 2
+    },
+    {
+     "date": "20261102",
+     "totalUsers": 4
+    },
+    {
+     "date": "20261103",
+     "totalUsers": 4
+    },
+    {
+     "date": "20261104",
+     "totalUsers": 10
+    },
+    {
+     "date": "20261105",
+     "totalUsers": 7
+    },
+    {
+     "date": "20261106",
+     "totalUsers": 2
+    },
+    {
+     "date": "20261107",
+     "totalUsers": 5
+    },
+    {
+     "date": "20261108",
+     "totalUsers": 4
+    },
+    {
+     "date": "20261109",
+     "totalUsers": 4
+    }
+   ],
+   "origen": [
+    {
+     "sessionSource": "(direct)",
+     "sessionMedium": "(none)",
+     "sessionDefaultChannelGroup": "Direct",
+     "sessions": 218,
+     "activeUsers": 178,
+     "engagedSessions": 188
+    },
+    {
+     "sessionSource": "l.instagram.com",
+     "sessionMedium": "referral",
+     "sessionDefaultChannelGroup": "Organic Social",
+     "sessions": 139,
+     "activeUsers": 119,
+     "engagedSessions": 137
+    },
+    {
+     "sessionSource": "l.wl.co",
+     "sessionMedium": "referral",
+     "sessionDefaultChannelGroup": "Referral",
+     "sessions": 27,
+     "activeUsers": 3,
+     "engagedSessions": 14
+    },
+    {
+     "sessionSource": "google",
+     "sessionMedium": "organic",
+     "sessionDefaultChannelGroup": "Organic Search",
+     "sessions": 16,
+     "activeUsers": 15,
+     "engagedSessions": 15
+    },
+    {
+     "sessionSource": "ig",
+     "sessionMedium": "social",
+     "sessionDefaultChannelGroup": "Organic Social",
+     "sessions": 14,
+     "activeUsers": 3,
+     "engagedSessions": 7
+    },
+    {
+     "sessionSource": "(not set)",
+     "sessionMedium": "(not set)",
+     "sessionDefaultChannelGroup": "Unassigned",
+     "sessions": 2,
+     "activeUsers": 1,
+     "engagedSessions": 0
+    }
+   ],
+   "leadsPorOrigen": [
+    {
+     "sessionSource": "(direct)",
+     "sessionMedium": "(none)",
+     "sessionDefaultChannelGroup": "Direct",
+     "totalUsers": 60
+    },
+    {
+     "sessionSource": "l.instagram.com",
+     "sessionMedium": "referral",
+     "sessionDefaultChannelGroup": "Organic Social",
+     "totalUsers": 42
+    },
+    {
+     "sessionSource": "google",
+     "sessionMedium": "organic",
+     "sessionDefaultChannelGroup": "Organic Search",
+     "totalUsers": 4
+    },
+    {
+     "sessionSource": "ig",
+     "sessionMedium": "social",
+     "sessionDefaultChannelGroup": "Organic Social",
+     "totalUsers": 1
+    },
+    {
+     "sessionSource": "l.wl.co",
+     "sessionMedium": "referral",
+     "sessionDefaultChannelGroup": "Referral",
+     "totalUsers": 1
+    }
+   ],
+   "paginas": [
+    {
+     "pagePath": "/",
+     "screenPageViews": 626,
+     "activeUsers": 267,
+     "userEngagementDuration": 7033
+    },
+    {
+     "pagePath": "/servicios",
+     "screenPageViews": 304,
+     "activeUsers": 151,
+     "userEngagementDuration": 15798
+    },
+    {
+     "pagePath": "/contacto",
+     "screenPageViews": 9,
+     "activeUsers": 9,
+     "userEngagementDuration": 113
+    },
+    {
+     "pagePath": "/libro-de-reclamaciones",
+     "screenPageViews": 1,
+     "activeUsers": 1,
+     "userEngagementDuration": 29
+    }
+   ],
+   "entrada": [
+    {
+     "landingPage": "/",
+     "sessions": 306,
+     "engagedSessions": 287
+    },
+    {
+     "landingPage": "/servicios",
+     "sessions": 104,
+     "engagedSessions": 74
+    },
+    {
+     "landingPage": "(not set)",
+     "sessions": 6,
+     "engagedSessions": 0
+    }
+   ],
+   "vieronPlanes": 150,
+   "vieronPlanesAntes": 130,
+   "planes": [
+    {
+     "itemName": "FitnessLife Online (Formulario)",
+     "itemsViewed": 186,
+     "itemsClickedInList": 14
+    },
+    {
+     "itemName": "FitnessLife Premium Online",
+     "itemsViewed": 184,
+     "itemsClickedInList": 15
+    },
+    {
+     "itemName": "FitnessLife Premium Presencial",
+     "itemsViewed": 173,
+     "itemsClickedInList": 31
+    },
+    {
+     "itemName": "Plan Gold Online",
+     "itemsViewed": 126,
+     "itemsClickedInList": 3
+    },
+    {
+     "itemName": "Plan Platinum Presencial",
+     "itemsViewed": 110,
+     "itemsClickedInList": 8
+    }
+   ],
+   "leadsPorPlan": [
+    {
+     "plan_name": "(not set)",
+     "eventCount": 141,
+     "totalUsers": 107
+    }
+   ],
+   "secciones": [
+    {
+     "section_name": "(not set)",
+     "totalUsers": 316,
+     "eventCount": 1730
+    }
+   ],
+   "tiempoSecciones": [
+    {
+     "section_name": "(not set)",
+     "engaged_seconds": 0,
+     "eventCount": 1881
+    }
+   ],
+   "botones": [
+    {
+     "cta_location": "(not set)",
+     "eventCount": 141,
+     "totalUsers": 107
+    }
+   ],
+   "botonesPorPagina": [
+    {
+     "pagePath": "/servicios",
+     "eventCount": 81,
+     "totalUsers": 59
+    },
+    {
+     "pagePath": "/",
+     "eventCount": 59,
+     "totalUsers": 51
+    },
+    {
+     "pagePath": "/contacto",
+     "eventCount": 1,
+     "totalUsers": 1
+    }
+   ],
+   "faq": [
+    {
+     "faq_question": "(not set)",
+     "eventCount": 65,
+     "totalUsers": 26
+    }
+   ],
+   "scroll": [
+    {
+     "contentGroup": "servicios",
+     "percentScrolled": "25",
+     "totalUsers": 141
+    },
+    {
+     "contentGroup": "inicio",
+     "percentScrolled": "25",
+     "totalUsers": 131
+    },
+    {
+     "contentGroup": "servicios",
+     "percentScrolled": "50",
+     "totalUsers": 96
+    },
+    {
+     "contentGroup": "inicio",
+     "percentScrolled": "50",
+     "totalUsers": 85
+    },
+    {
+     "contentGroup": "servicios",
+     "percentScrolled": "75",
+     "totalUsers": 71
+    },
+    {
+     "contentGroup": "inicio",
+     "percentScrolled": "75",
+     "totalUsers": 70
+    },
+    {
+     "contentGroup": "inicio",
+     "percentScrolled": "100",
+     "totalUsers": 24
+    },
+    {
+     "contentGroup": "servicios",
+     "percentScrolled": "100",
+     "totalUsers": 13
+    },
+    {
+     "contentGroup": "contacto",
+     "percentScrolled": "25",
+     "totalUsers": 8
+    },
+    {
+     "contentGroup": "contacto",
+     "percentScrolled": "50",
+     "totalUsers": 6
+    },
+    {
+     "contentGroup": "contacto",
+     "percentScrolled": "75",
+     "totalUsers": 5
+    },
+    {
+     "contentGroup": "contacto",
+     "percentScrolled": "100",
+     "totalUsers": 2
+    },
+    {
+     "contentGroup": "libro_reclamaciones",
+     "percentScrolled": "100",
+     "totalUsers": 1
+    },
+    {
+     "contentGroup": "libro_reclamaciones",
+     "percentScrolled": "25",
+     "totalUsers": 1
+    },
+    {
+     "contentGroup": "libro_reclamaciones",
+     "percentScrolled": "50",
+     "totalUsers": 1
+    },
+    {
+     "contentGroup": "libro_reclamaciones",
+     "percentScrolled": "75",
+     "totalUsers": 1
+    }
+   ],
+   "dispositivos": [
+    {
+     "deviceCategory": "mobile",
+     "activeUsers": 302,
+     "sessions": 392
+    },
+    {
+     "deviceCategory": "desktop",
+     "activeUsers": 11,
+     "sessions": 22
+    },
+    {
+     "deviceCategory": "tablet",
+     "activeUsers": 2,
+     "sessions": 2
+    }
+   ],
+   "ciudades": [
+    {
+     "city": "(not set)",
+     "country": "Peru",
+     "activeUsers": 178
+    },
+    {
+     "city": "Arequipa",
+     "country": "Peru",
+     "activeUsers": 22
+    },
+    {
+     "city": "Cusco",
+     "country": "Peru",
+     "activeUsers": 18
+    },
+    {
+     "city": "Chiclayo",
+     "country": "Peru",
+     "activeUsers": 13
+    },
+    {
+     "city": "Trujillo",
+     "country": "Peru",
+     "activeUsers": 12
+    },
+    {
+     "city": "Piura",
+     "country": "Peru",
+     "activeUsers": 9
+    },
+    {
+     "city": "Huancayo",
+     "country": "Peru",
+     "activeUsers": 5
+    },
+    {
+     "city": "Paucarpata",
+     "country": "Peru",
+     "activeUsers": 5
+    },
+    {
+     "city": "Ayacucho",
+     "country": "Peru",
+     "activeUsers": 3
+    },
+    {
+     "city": "Cayma",
+     "country": "Peru",
+     "activeUsers": 3
+    },
+    {
+     "city": "Jose Luis Bustamante",
+     "country": "Peru",
+     "activeUsers": 3
+    },
+    {
+     "city": "Santiago",
+     "country": "Chile",
+     "activeUsers": 3
+    },
+    {
+     "city": "(not set)",
+     "country": "Iraq",
+     "activeUsers": 2
+    },
+    {
+     "city": "(not set)",
+     "country": "Mexico",
+     "activeUsers": 2
+    },
+    {
+     "city": "Baghdad",
+     "country": "Iraq",
+     "activeUsers": 2
+    },
+    {
+     "city": "Cerro Colorado",
+     "country": "Peru",
+     "activeUsers": 2
+    },
+    {
+     "city": "Chimbote",
+     "country": "Peru",
+     "activeUsers": 2
+    },
+    {
+     "city": "Huaraz",
+     "country": "Peru",
+     "activeUsers": 2
+    },
+    {
+     "city": "Ica",
+     "country": "Peru",
+     "activeUsers": 2
+    },
+    {
+     "city": "Madrid",
+     "country": "Spain",
+     "activeUsers": 2
+    }
+   ],
+   "paises": [
+    {
+     "country": "Peru",
+     "activeUsers": 269
+    },
+    {
+     "country": "United States",
+     "activeUsers": 7
+    },
+    {
+     "country": "Chile",
+     "activeUsers": 5
+    },
+    {
+     "country": "Mexico",
+     "activeUsers": 5
+    },
+    {
+     "country": "Iraq",
+     "activeUsers": 4
+    },
+    {
+     "country": "Spain",
+     "activeUsers": 4
+    },
+    {
+     "country": "Colombia",
+     "activeUsers": 3
+    },
+    {
+     "country": "Bahrain",
+     "activeUsers": 2
+    },
+    {
+     "country": "Bangladesh",
+     "activeUsers": 2
+    },
+    {
+     "country": "Austria",
+     "activeUsers": 1
+    },
+    {
+     "country": "Brazil",
+     "activeUsers": 1
+    },
+    {
+     "country": "Ecuador",
+     "activeUsers": 1
+    },
+    {
+     "country": "Georgia",
+     "activeUsers": 1
+    },
+    {
+     "country": "Guatemala",
+     "activeUsers": 1
+    },
+    {
+     "country": "India",
+     "activeUsers": 1
+    },
+    {
+     "country": "Indonesia",
+     "activeUsers": 1
+    },
+    {
+     "country": "Iran",
+     "activeUsers": 1
+    },
+    {
+     "country": "Ireland",
+     "activeUsers": 1
+    },
+    {
+     "country": "Netherlands",
+     "activeUsers": 1
+    },
+    {
+     "country": "Nicaragua",
+     "activeUsers": 1
+    }
+   ],
+   "horas": [
+    {
+     "hour": "0",
+     "sessions": 16
+    },
+    {
+     "hour": "1",
+     "sessions": 8
+    },
+    {
+     "hour": "10",
+     "sessions": 22
+    },
+    {
+     "hour": "11",
+     "sessions": 26
+    },
+    {
+     "hour": "12",
+     "sessions": 24
+    },
+    {
+     "hour": "13",
+     "sessions": 21
+    },
+    {
+     "hour": "14",
+     "sessions": 29
+    },
+    {
+     "hour": "15",
+     "sessions": 21
+    },
+    {
+     "hour": "16",
+     "sessions": 23
+    },
+    {
+     "hour": "17",
+     "sessions": 17
+    },
+    {
+     "hour": "18",
+     "sessions": 26
+    },
+    {
+     "hour": "19",
+     "sessions": 18
+    },
+    {
+     "hour": "2",
+     "sessions": 7
+    },
+    {
+     "hour": "20",
+     "sessions": 20
+    },
+    {
+     "hour": "21",
+     "sessions": 22
+    },
+    {
+     "hour": "22",
+     "sessions": 32
+    },
+    {
+     "hour": "23",
+     "sessions": 20
+    },
+    {
+     "hour": "3",
+     "sessions": 5
+    },
+    {
+     "hour": "4",
+     "sessions": 5
+    },
+    {
+     "hour": "5",
+     "sessions": 4
+    },
+    {
+     "hour": "6",
+     "sessions": 11
+    },
+    {
+     "hour": "7",
+     "sessions": 13
+    },
+    {
+     "hour": "8",
+     "sessions": 26
+    },
+    {
+     "hour": "9",
+     "sessions": 24
+    }
+   ],
+   "diasSemana": [
+    {
+     "dayOfWeek": "0",
+     "sessions": 31
+    },
+    {
+     "dayOfWeek": "1",
+     "sessions": 58
+    },
+    {
+     "dayOfWeek": "2",
+     "sessions": 63
+    },
+    {
+     "dayOfWeek": "3",
+     "sessions": 115
+    },
+    {
+     "dayOfWeek": "4",
+     "sessions": 66
+    },
+    {
+     "dayOfWeek": "5",
+     "sessions": 49
+    },
+    {
+     "dayOfWeek": "6",
+     "sessions": 35
+    }
+   ],
+   "nuevos": [
+    {
+     "newVsReturning": "new",
+     "activeUsers": 297
+    },
+    {
+     "newVsReturning": "returning",
+     "activeUsers": 54
+    }
+   ],
+   "redes": [
+    {
+     "social_network": "(not set)",
+     "eventCount": 12
+    }
+   ],
+   "formularios": []
+  },
+  "90": {
+   "dias": 90,
+   "rango": {
+    "startDate": "2026-08-12",
+    "endDate": "2026-11-09"
+   },
+   "comparadoCon": {
+    "startDate": "2026-05-14",
+    "endDate": "2026-08-11"
+   },
+   "kpi": {
+    "activeUsers": 1227,
+    "newUsers": 1179,
+    "sessions": 1498,
+    "engagedSessions": 1379,
+    "screenPageViews": 3369,
+    "engagementRate": 0.9205607476635514,
+    "userEngagementDuration": 59457
+   },
+   "kpiAntes": {
+    "activeUsers": 794,
+    "newUsers": 774,
+    "sessions": 947,
+    "engagedSessions": 929,
+    "screenPageViews": 2142,
+    "engagementRate": 0.9809926082365364,
+    "userEngagementDuration": 25828
+   },
+   "eventos": [
+    {
+     "eventName": "page_view",
+     "eventCount": 3369,
+     "totalUsers": 1226
+    },
+    {
+     "eventName": "section_view",
+     "eventCount": 2925,
+     "totalUsers": 550
+    },
+    {
+     "eventName": "scroll_depth",
+     "eventCount": 1422,
+     "totalUsers": 399
+    },
+    {
+     "eventName": "view_item",
+     "eventCount": 1372,
+     "totalUsers": 274
+    },
+    {
+     "eventName": "cta_click",
+     "eventCount": 719,
+     "totalUsers": 584
+    },
+    {
+     "eventName": "cookie_consent",
+     "eventCount": 545,
+     "totalUsers": 530
+    },
+    {
+     "eventName": "whatsapp_click",
+     "eventCount": 498,
+     "totalUsers": 371
+    },
+    {
+     "eventName": "generate_lead",
+     "eventCount": 241,
+     "totalUsers": 179
+    },
+    {
+     "eventName": "menu_click",
+     "eventCount": 179,
+     "totalUsers": 96
+    },
+    {
+     "eventName": "select_item",
+     "eventCount": 119,
+     "totalUsers": 89
+    },
+    {
+     "eventName": "testimonial_navigation",
+     "eventCount": 114,
+     "totalUsers": 30
+    },
+    {
+     "eventName": "faq_open",
+     "eventCount": 112,
+     "totalUsers": 48
+    },
+    {
+     "eventName": "social_click",
+     "eventCount": 19,
+     "totalUsers": 16
+    },
+    {
+     "eventName": "form_begin",
+     "eventCount": 1,
+     "totalUsers": 1
+    },
+    {
+     "eventName": "form_error",
+     "eventCount": 1,
+     "totalUsers": 1
+    }
+   ],
+   "eventosAntes": [
+    {
+     "eventName": "page_view",
+     "eventCount": 2142,
+     "totalUsers": 794
+    },
+    {
+     "eventName": "cta_click",
+     "eventCount": 444,
+     "totalUsers": 372
+    },
+    {
+     "eventName": "whatsapp_click",
+     "eventCount": 186,
+     "totalUsers": 149
+    },
+    {
+     "eventName": "select_item",
+     "eventCount": 5,
+     "totalUsers": 5
+    }
+   ],
+   "contactos": 371,
+   "contactosAntes": 149,
+   "porDia": [
+    {
+     "date": "20260812",
+     "activeUsers": 50,
+     "sessions": 50,
+     "screenPageViews": 104
+    },
+    {
+     "date": "20260813",
+     "activeUsers": 22,
+     "sessions": 22,
+     "screenPageViews": 53
+    },
+    {
+     "date": "20260814",
+     "activeUsers": 18,
+     "sessions": 20,
+     "screenPageViews": 42
+    },
+    {
+     "date": "20260815",
+     "activeUsers": 7,
+     "sessions": 7,
+     "screenPageViews": 19
+    },
+    {
+     "date": "20260816",
+     "activeUsers": 7,
+     "sessions": 7,
+     "screenPageViews": 14
+    },
+    {
+     "date": "20260817",
+     "activeUsers": 21,
+     "sessions": 23,
+     "screenPageViews": 45
+    },
+    {
+     "date": "20260818",
+     "activeUsers": 19,
+     "sessions": 22,
+     "screenPageViews": 46
+    },
+    {
+     "date": "20260819",
+     "activeUsers": 9,
+     "sessions": 9,
+     "screenPageViews": 20
+    },
+    {
+     "date": "20260820",
+     "activeUsers": 50,
+     "sessions": 53,
+     "screenPageViews": 115
+    },
+    {
+     "date": "20260821",
+     "activeUsers": 174,
+     "sessions": 183,
+     "screenPageViews": 407
+    },
+    {
+     "date": "20260822",
+     "activeUsers": 37,
+     "sessions": 37,
+     "screenPageViews": 76
+    },
+    {
+     "date": "20260823",
+     "activeUsers": 13,
+     "sessions": 14,
+     "screenPageViews": 28
+    },
+    {
+     "date": "20260824",
+     "activeUsers": 11,
+     "sessions": 11,
+     "screenPageViews": 22
+    },
+    {
+     "date": "20260825",
+     "activeUsers": 13,
+     "sessions": 14,
+     "screenPageViews": 37
+    },
+    {
+     "date": "20260826",
+     "activeUsers": 12,
+     "sessions": 12,
+     "screenPageViews": 28
+    },
+    {
+     "date": "20260827",
+     "activeUsers": 12,
+     "sessions": 14,
+     "screenPageViews": 35
+    },
+    {
+     "date": "20260828",
+     "activeUsers": 7,
+     "sessions": 7,
+     "screenPageViews": 15
+    },
+    {
+     "date": "20260829",
+     "activeUsers": 5,
+     "sessions": 5,
+     "screenPageViews": 22
+    },
+    {
+     "date": "20260830",
+     "activeUsers": 8,
+     "sessions": 8,
+     "screenPageViews": 18
+    },
+    {
+     "date": "20260831",
+     "activeUsers": 20,
+     "sessions": 20,
+     "screenPageViews": 43
+    },
+    {
+     "date": "20260901",
+     "activeUsers": 22,
+     "sessions": 26,
+     "screenPageViews": 64
+    },
+    {
+     "date": "20260902",
+     "activeUsers": 9,
+     "sessions": 9,
+     "screenPageViews": 22
+    },
+    {
+     "date": "20260903",
+     "activeUsers": 10,
+     "sessions": 10,
+     "screenPageViews": 22
+    },
+    {
+     "date": "20260904",
+     "activeUsers": 11,
+     "sessions": 11,
+     "screenPageViews": 26
+    },
+    {
+     "date": "20260905",
+     "activeUsers": 9,
+     "sessions": 9,
+     "screenPageViews": 22
+    },
+    {
+     "date": "20260906",
+     "activeUsers": 8,
+     "sessions": 8,
+     "screenPageViews": 21
+    },
+    {
+     "date": "20260907",
+     "activeUsers": 20,
+     "sessions": 20,
+     "screenPageViews": 46
+    },
+    {
+     "date": "20260908",
+     "activeUsers": 10,
+     "sessions": 10,
+     "screenPageViews": 30
+    },
+    {
+     "date": "20260909",
+     "activeUsers": 7,
+     "sessions": 7,
+     "screenPageViews": 17
+    },
+    {
+     "date": "20260910",
+     "activeUsers": 11,
+     "sessions": 13,
+     "screenPageViews": 24
+    },
+    {
+     "date": "20260911",
+     "activeUsers": 13,
+     "sessions": 13,
+     "screenPageViews": 27
+    },
+    {
+     "date": "20260912",
+     "activeUsers": 7,
+     "sessions": 8,
+     "screenPageViews": 16
+    },
+    {
+     "date": "20260913",
+     "activeUsers": 4,
+     "sessions": 4,
+     "screenPageViews": 8
+    },
+    {
+     "date": "20260914",
+     "activeUsers": 10,
+     "sessions": 10,
+     "screenPageViews": 20
+    },
+    {
+     "date": "20260915",
+     "activeUsers": 10,
+     "sessions": 14,
+     "screenPageViews": 28
+    },
+    {
+     "date": "20260916",
+     "activeUsers": 10,
+     "sessions": 10,
+     "screenPageViews": 20
+    },
+    {
+     "date": "20260917",
+     "activeUsers": 6,
+     "sessions": 6,
+     "screenPageViews": 16
+    },
+    {
+     "date": "20260918",
+     "activeUsers": 11,
+     "sessions": 11,
+     "screenPageViews": 28
+    },
+    {
+     "date": "20260919",
+     "activeUsers": 7,
+     "sessions": 8,
+     "screenPageViews": 21
+    },
+    {
+     "date": "20260920",
+     "activeUsers": 6,
+     "sessions": 7,
+     "screenPageViews": 20
+    },
+    {
+     "date": "20260921",
+     "activeUsers": 9,
+     "sessions": 11,
+     "screenPageViews": 27
+    },
+    {
+     "date": "20260922",
+     "activeUsers": 14,
+     "sessions": 15,
+     "screenPageViews": 34
+    },
+    {
+     "date": "20260923",
+     "activeUsers": 11,
+     "sessions": 13,
+     "screenPageViews": 33
+    },
+    {
+     "date": "20260924",
+     "activeUsers": 9,
+     "sessions": 11,
+     "screenPageViews": 20
+    },
+    {
+     "date": "20260925",
+     "activeUsers": 13,
+     "sessions": 14,
+     "screenPageViews": 28
+    },
+    {
+     "date": "20260926",
+     "activeUsers": 8,
+     "sessions": 12,
+     "screenPageViews": 21
+    },
+    {
+     "date": "20260927",
+     "activeUsers": 7,
+     "sessions": 12,
+     "screenPageViews": 24
+    },
+    {
+     "date": "20260928",
+     "activeUsers": 24,
+     "sessions": 27,
+     "screenPageViews": 57
+    },
+    {
+     "date": "20260929",
+     "activeUsers": 16,
+     "sessions": 19,
+     "screenPageViews": 42
+    },
+    {
+     "date": "20260930",
+     "activeUsers": 22,
+     "sessions": 25,
+     "screenPageViews": 53
+    },
+    {
+     "date": "20261001",
+     "activeUsers": 25,
+     "sessions": 28,
+     "screenPageViews": 60
+    },
+    {
+     "date": "20261002",
+     "activeUsers": 8,
+     "sessions": 9,
+     "screenPageViews": 22
+    },
+    {
+     "date": "20261003",
+     "activeUsers": 10,
+     "sessions": 12,
+     "screenPageViews": 28
+    },
+    {
+     "date": "20261004",
+     "activeUsers": 4,
+     "sessions": 5,
+     "screenPageViews": 9
+    },
+    {
+     "date": "20261005",
+     "activeUsers": 15,
+     "sessions": 17,
+     "screenPageViews": 31
+    },
+    {
+     "date": "20261006",
+     "activeUsers": 12,
+     "sessions": 14,
+     "screenPageViews": 35
+    },
+    {
+     "date": "20261007",
+     "activeUsers": 16,
+     "sessions": 17,
+     "screenPageViews": 43
+    },
+    {
+     "date": "20261008",
+     "activeUsers": 17,
+     "sessions": 20,
+     "screenPageViews": 54
+    },
+    {
+     "date": "20261009",
+     "activeUsers": 14,
+     "sessions": 21,
+     "screenPageViews": 35
+    },
+    {
+     "date": "20261010",
+     "activeUsers": 6,
+     "sessions": 7,
+     "screenPageViews": 14
+    },
+    {
+     "date": "20261011",
+     "activeUsers": 6,
+     "sessions": 6,
+     "screenPageViews": 20
+    },
+    {
+     "date": "20261012",
+     "activeUsers": 22,
+     "sessions": 22,
+     "screenPageViews": 52
+    },
+    {
+     "date": "20261013",
+     "activeUsers": 10,
+     "sessions": 12,
+     "screenPageViews": 35
+    },
+    {
+     "date": "20261014",
+     "activeUsers": 4,
+     "sessions": 4,
+     "screenPageViews": 10
+    },
+    {
+     "date": "20261015",
+     "activeUsers": 15,
+     "sessions": 17,
+     "screenPageViews": 36
+    },
+    {
+     "date": "20261016",
+     "activeUsers": 8,
+     "sessions": 11,
+     "screenPageViews": 22
+    },
+    {
+     "date": "20261017",
+     "activeUsers": 9,
+     "sessions": 12,
+     "screenPageViews": 28
+    },
+    {
+     "date": "20261018",
+     "activeUsers": 4,
+     "sessions": 4,
+     "screenPageViews": 10
+    },
+    {
+     "date": "20261019",
+     "activeUsers": 13,
+     "sessions": 14,
+     "screenPageViews": 29
+    },
+    {
+     "date": "20261020",
+     "activeUsers": 17,
+     "sessions": 18,
+     "screenPageViews": 61
+    },
+    {
+     "date": "20261021",
+     "activeUsers": 12,
+     "sessions": 16,
+     "screenPageViews": 33
+    },
+    {
+     "date": "20261022",
+     "activeUsers": 6,
+     "sessions": 10,
+     "screenPageViews": 30
+    },
+    {
+     "date": "20261023",
+     "activeUsers": 12,
+     "sessions": 15,
+     "screenPageViews": 31
+    },
+    {
+     "date": "20261024",
+     "activeUsers": 2,
+     "sessions": 2,
+     "screenPageViews": 8
+    },
+    {
+     "date": "20261025",
+     "activeUsers": 5,
+     "sessions": 5,
+     "screenPageViews": 20
+    },
+    {
+     "date": "20261026",
+     "activeUsers": 11,
+     "sessions": 13,
+     "screenPageViews": 26
+    },
+    {
+     "date": "20261027",
+     "activeUsers": 14,
+     "sessions": 17,
+     "screenPageViews": 29
+    },
+    {
+     "date": "20261028",
+     "activeUsers": 28,
+     "sessions": 38,
+     "screenPageViews": 86
+    },
+    {
+     "date": "20261029",
+     "activeUsers": 14,
+     "sessions": 21,
+     "screenPageViews": 38
+    },
+    {
+     "date": "20261030",
+     "activeUsers": 7,
+     "sessions": 11,
+     "screenPageViews": 24
+    },
+    {
+     "date": "20261031",
+     "activeUsers": 7,
+     "sessions": 7,
+     "screenPageViews": 18
+    },
+    {
+     "date": "20261101",
+     "activeUsers": 2,
+     "sessions": 4,
+     "screenPageViews": 6
+    },
+    {
+     "date": "20261102",
+     "activeUsers": 9,
+     "sessions": 12,
+     "screenPageViews": 28
+    },
+    {
+     "date": "20261103",
+     "activeUsers": 16,
+     "sessions": 16,
+     "screenPageViews": 34
+    },
+    {
+     "date": "20261104",
+     "activeUsers": 52,
+     "sessions": 57,
+     "screenPageViews": 127
+    },
+    {
+     "date": "20261105",
+     "activeUsers": 17,
+     "sessions": 18,
+     "screenPageViews": 40
+    },
+    {
+     "date": "20261106",
+     "activeUsers": 11,
+     "sessions": 12,
+     "screenPageViews": 31
+    },
+    {
+     "date": "20261107",
+     "activeUsers": 10,
+     "sessions": 14,
+     "screenPageViews": 30
+    },
+    {
+     "date": "20261108",
+     "activeUsers": 12,
+     "sessions": 18,
+     "screenPageViews": 33
+    },
+    {
+     "date": "20261109",
+     "activeUsers": 16,
+     "sessions": 19,
+     "screenPageViews": 37
+    }
+   ],
+   "leadsPorDia": [
+    {
+     "date": "20260812",
+     "totalUsers": 5
+    },
+    {
+     "date": "20260813",
+     "totalUsers": 4
+    },
+    {
+     "date": "20260814",
+     "totalUsers": 4
+    },
+    {
+     "date": "20260815",
+     "totalUsers": 3
+    },
+    {
+     "date": "20260816",
+     "totalUsers": 3
+    },
+    {
+     "date": "20260817",
+     "totalUsers": 4
+    },
+    {
+     "date": "20260818",
+     "totalUsers": 7
+    },
+    {
+     "date": "20260820",
+     "totalUsers": 9
+    },
+    {
+     "date": "20260821",
+     "totalUsers": 63
+    },
+    {
+     "date": "20260822",
+     "totalUsers": 11
+    },
+    {
+     "date": "20260823",
+     "totalUsers": 2
+    },
+    {
+     "date": "20260824",
+     "totalUsers": 3
+    },
+    {
+     "date": "20260825",
+     "totalUsers": 4
+    },
+    {
+     "date": "20260826",
+     "totalUsers": 3
+    },
+    {
+     "date": "20260827",
+     "totalUsers": 2
+    },
+    {
+     "date": "20260828",
+     "totalUsers": 2
+    },
+    {
+     "date": "20260829",
+     "totalUsers": 1
+    },
+    {
+     "date": "20260830",
+     "totalUsers": 2
+    },
+    {
+     "date": "20260831",
+     "totalUsers": 5
+    },
+    {
+     "date": "20260901",
+     "totalUsers": 8
+    },
+    {
+     "date": "20260903",
+     "totalUsers": 3
+    },
+    {
+     "date": "20260904",
+     "totalUsers": 4
+    },
+    {
+     "date": "20260905",
+     "totalUsers": 3
+    },
+    {
+     "date": "20260906",
+     "totalUsers": 2
+    },
+    {
+     "date": "20260907",
+     "totalUsers": 6
+    },
+    {
+     "date": "20260908",
+     "totalUsers": 3
+    },
+    {
+     "date": "20260909",
+     "totalUsers": 1
+    },
+    {
+     "date": "20260910",
+     "totalUsers": 1
+    },
+    {
+     "date": "20260911",
+     "totalUsers": 1
+    },
+    {
+     "date": "20260912",
+     "totalUsers": 1
+    },
+    {
+     "date": "20260913",
+     "totalUsers": 1
+    },
+    {
+     "date": "20260914",
+     "totalUsers": 5
+    },
+    {
+     "date": "20260915",
+     "totalUsers": 1
+    },
+    {
+     "date": "20260916",
+     "totalUsers": 5
+    },
+    {
+     "date": "20260918",
+     "totalUsers": 3
+    },
+    {
+     "date": "20260919",
+     "totalUsers": 1
+    },
+    {
+     "date": "20260920",
+     "totalUsers": 1
+    },
+    {
+     "date": "20260921",
+     "totalUsers": 3
+    },
+    {
+     "date": "20260922",
+     "totalUsers": 4
+    },
+    {
+     "date": "20260923",
+     "totalUsers": 2
+    },
+    {
+     "date": "20260924",
+     "totalUsers": 1
+    },
+    {
+     "date": "20260925",
+     "totalUsers": 3
+    },
+    {
+     "date": "20260926",
+     "totalUsers": 2
+    },
+    {
+     "date": "20260927",
+     "totalUsers": 1
+    },
+    {
+     "date": "20260928",
+     "totalUsers": 4
+    },
+    {
+     "date": "20260929",
+     "totalUsers": 4
+    },
+    {
+     "date": "20260930",
+     "totalUsers": 6
+    },
+    {
+     "date": "20261001",
+     "totalUsers": 8
+    },
+    {
+     "date": "20261002",
+     "totalUsers": 2
+    },
+    {
+     "date": "20261003",
+     "totalUsers": 5
+    },
+    {
+     "date": "20261005",
+     "totalUsers": 7
+    },
+    {
+     "date": "20261006",
+     "totalUsers": 3
+    },
+    {
+     "date": "20261007",
+     "totalUsers": 7
+    },
+    {
+     "date": "20261008",
+     "totalUsers": 4
+    },
+    {
+     "date": "20261009",
+     "totalUsers": 5
+    },
+    {
+     "date": "20261010",
+     "totalUsers": 3
+    },
+    {
+     "date": "20261011",
+     "totalUsers": 2
+    },
+    {
+     "date": "20261012",
+     "totalUsers": 9
+    },
+    {
+     "date": "20261013",
+     "totalUsers": 4
+    },
+    {
+     "date": "20261014",
+     "totalUsers": 1
+    },
+    {
+     "date": "20261015",
+     "totalUsers": 8
+    },
+    {
+     "date": "20261016",
+     "totalUsers": 2
+    },
+    {
+     "date": "20261017",
+     "totalUsers": 1
+    },
+    {
+     "date": "20261018",
+     "totalUsers": 1
+    },
+    {
+     "date": "20261019",
+     "totalUsers": 4
+    },
+    {
+     "date": "20261020",
+     "totalUsers": 7
+    },
+    {
+     "date": "20261021",
+     "totalUsers": 4
+    },
+    {
+     "date": "20261022",
+     "totalUsers": 3
+    },
+    {
+     "date": "20261023",
+     "totalUsers": 4
+    },
+    {
+     "date": "20261025",
+     "totalUsers": 4
+    },
+    {
+     "date": "20261026",
+     "totalUsers": 3
+    },
+    {
+     "date": "20261027",
+     "totalUsers": 3
+    },
+    {
+     "date": "20261028",
+     "totalUsers": 9
+    },
+    {
+     "date": "20261029",
+     "totalUsers": 5
+    },
+    {
+     "date": "20261030",
+     "totalUsers": 5
+    },
+    {
+     "date": "20261031",
+     "totalUsers": 2
+    },
+    {
+     "date": "20261102",
+     "totalUsers": 4
+    },
+    {
+     "date": "20261103",
+     "totalUsers": 4
+    },
+    {
+     "date": "20261104",
+     "totalUsers": 10
+    },
+    {
+     "date": "20261105",
+     "totalUsers": 7
+    },
+    {
+     "date": "20261106",
+     "totalUsers": 2
+    },
+    {
+     "date": "20261107",
+     "totalUsers": 5
+    },
+    {
+     "date": "20261108",
+     "totalUsers": 4
+    },
+    {
+     "date": "20261109",
+     "totalUsers": 4
+    }
+   ],
+   "origen": [
+    {
+     "sessionSource": "(direct)",
+     "sessionMedium": "(none)",
+     "sessionDefaultChannelGroup": "Direct",
+     "sessions": 929,
+     "activeUsers": 788,
+     "engagedSessions": 851
+    },
+    {
+     "sessionSource": "l.instagram.com",
+     "sessionMedium": "referral",
+     "sessionDefaultChannelGroup": "Organic Social",
+     "sessions": 416,
+     "activeUsers": 352,
+     "engagedSessions": 407
+    },
+    {
+     "sessionSource": "google",
+     "sessionMedium": "organic",
+     "sessionDefaultChannelGroup": "Organic Search",
+     "sessions": 70,
+     "activeUsers": 59,
+     "engagedSessions": 66
+    },
+    {
+     "sessionSource": "l.wl.co",
+     "sessionMedium": "referral",
+     "sessionDefaultChannelGroup": "Referral",
+     "sessions": 34,
+     "activeUsers": 9,
+     "engagedSessions": 21
+    },
+    {
+     "sessionSource": "ig",
+     "sessionMedium": "social",
+     "sessionDefaultChannelGroup": "Organic Social",
+     "sessions": 31,
+     "activeUsers": 14,
+     "engagedSessions": 20
+    },
+    {
+     "sessionSource": "chatgpt.com",
+     "sessionMedium": "ai-assistant",
+     "sessionDefaultChannelGroup": "AI Assistant",
+     "sessions": 7,
+     "activeUsers": 7,
+     "engagedSessions": 7
+    },
+    {
+     "sessionSource": "tiktok.com",
+     "sessionMedium": "referral",
+     "sessionDefaultChannelGroup": "Organic Social",
+     "sessions": 6,
+     "activeUsers": 6,
+     "engagedSessions": 5
+    },
+    {
+     "sessionSource": "(not set)",
+     "sessionMedium": "(not set)",
+     "sessionDefaultChannelGroup": "Unassigned",
+     "sessions": 2,
+     "activeUsers": 1,
+     "engagedSessions": 0
+    },
+    {
+     "sessionSource": "bing",
+     "sessionMedium": "organic",
+     "sessionDefaultChannelGroup": "Organic Search",
+     "sessions": 1,
+     "activeUsers": 1,
+     "engagedSessions": 1
+    },
+    {
+     "sessionSource": "instagram.com",
+     "sessionMedium": "referral",
+     "sessionDefaultChannelGroup": "Organic Social",
+     "sessions": 1,
+     "activeUsers": 1,
+     "engagedSessions": 1
+    }
+   ],
+   "leadsPorOrigen": [
+    {
+     "sessionSource": "(direct)",
+     "sessionMedium": "(none)",
+     "sessionDefaultChannelGroup": "Direct",
+     "totalUsers": 242
+    },
+    {
+     "sessionSource": "l.instagram.com",
+     "sessionMedium": "referral",
+     "sessionDefaultChannelGroup": "Organic Social",
+     "totalUsers": 113
+    },
+    {
+     "sessionSource": "google",
+     "sessionMedium": "organic",
+     "sessionDefaultChannelGroup": "Organic Search",
+     "totalUsers": 11
+    },
+    {
+     "sessionSource": "ig",
+     "sessionMedium": "social",
+     "sessionDefaultChannelGroup": "Organic Social",
+     "totalUsers": 2
+    },
+    {
+     "sessionSource": "l.wl.co",
+     "sessionMedium": "referral",
+     "sessionDefaultChannelGroup": "Referral",
+     "totalUsers": 2
+    },
+    {
+     "sessionSource": "chatgpt.com",
+     "sessionMedium": "ai-assistant",
+     "sessionDefaultChannelGroup": "AI Assistant",
+     "totalUsers": 1
+    },
+    {
+     "sessionSource": "instagram.com",
+     "sessionMedium": "referral",
+     "sessionDefaultChannelGroup": "Organic Social",
+     "totalUsers": 1
+    }
+   ],
+   "paginas": [
+    {
+     "pagePath": "/",
+     "screenPageViews": 2816,
+     "activeUsers": 1128,
+     "userEngagementDuration": 32819
+    },
+    {
+     "pagePath": "/servicios",
+     "screenPageViews": 530,
+     "activeUsers": 275,
+     "userEngagementDuration": 26362
+    },
+    {
+     "pagePath": "/contacto",
+     "screenPageViews": 11,
+     "activeUsers": 11,
+     "userEngagementDuration": 160
+    },
+    {
+     "pagePath": "/servicios.html",
+     "screenPageViews": 8,
+     "activeUsers": 4,
+     "userEngagementDuration": 87
+    },
+    {
+     "pagePath": "/contacto.html",
+     "screenPageViews": 1,
+     "activeUsers": 1,
+     "userEngagementDuration": 0
+    },
+    {
+     "pagePath": "/libro-de-reclamaciones",
+     "screenPageViews": 1,
+     "activeUsers": 1,
+     "userEngagementDuration": 29
+    },
+    {
+     "pagePath": "/libro-de-reclamaciones.html",
+     "screenPageViews": 1,
+     "activeUsers": 1,
+     "userEngagementDuration": 0
+    },
+    {
+     "pagePath": "/politica-privacidad.html",
+     "screenPageViews": 1,
+     "activeUsers": 1,
+     "userEngagementDuration": 0
+    }
+   ],
+   "entrada": [
+    {
+     "landingPage": "/",
+     "sessions": 1279,
+     "engagedSessions": 1238
+    },
+    {
+     "landingPage": "/servicios",
+     "sessions": 177,
+     "engagedSessions": 133
+    },
+    {
+     "landingPage": "(not set)",
+     "sessions": 37,
+     "engagedSessions": 4
+    },
+    {
+     "landingPage": "/servicios.html",
+     "sessions": 3,
+     "engagedSessions": 3
+    }
+   ],
+   "vieronPlanes": 277,
+   "vieronPlanesAntes": 0,
+   "planes": [
+    {
+     "itemName": "FitnessLife Online (Formulario)",
+     "itemsViewed": 329,
+     "itemsClickedInList": 27
+    },
+    {
+     "itemName": "FitnessLife Premium Online",
+     "itemsViewed": 326,
+     "itemsClickedInList": 26
+    },
+    {
+     "itemName": "FitnessLife Premium Presencial",
+     "itemsViewed": 308,
+     "itemsClickedInList": 50
+    },
+    {
+     "itemName": "Plan Gold Online",
+     "itemsViewed": 223,
+     "itemsClickedInList": 3
+    },
+    {
+     "itemName": "Plan Platinum Presencial",
+     "itemsViewed": 186,
+     "itemsClickedInList": 10
+    }
+   ],
+   "leadsPorPlan": [
+    {
+     "plan_name": "(not set)",
+     "eventCount": 241,
+     "totalUsers": 179
+    }
+   ],
+   "secciones": [
+    {
+     "section_name": "(not set)",
+     "totalUsers": 550,
+     "eventCount": 2925
+    }
+   ],
+   "tiempoSecciones": [
+    {
+     "section_name": "(not set)",
+     "engaged_seconds": 0,
+     "eventCount": 3266
+    }
+   ],
+   "botones": [
+    {
+     "cta_location": "(not set)",
+     "eventCount": 275,
+     "totalUsers": 206
+    }
+   ],
+   "botonesPorPagina": [
+    {
+     "pagePath": "/",
+     "eventCount": 370,
+     "totalUsers": 285
+    },
+    {
+     "pagePath": "/servicios",
+     "eventCount": 126,
+     "totalUsers": 93
+    },
+    {
+     "pagePath": "/contacto",
+     "eventCount": 1,
+     "totalUsers": 1
+    },
+    {
+     "pagePath": "/servicios.html",
+     "eventCount": 1,
+     "totalUsers": 1
+    }
+   ],
+   "faq": [
+    {
+     "faq_question": "(not set)",
+     "eventCount": 112,
+     "totalUsers": 48
+    }
+   ],
+   "scroll": [
+    {
+     "contentGroup": "servicios",
+     "percentScrolled": "25",
+     "totalUsers": 256
+    },
+    {
+     "contentGroup": "inicio",
+     "percentScrolled": "25",
+     "totalUsers": 220
+    },
+    {
+     "contentGroup": "servicios",
+     "percentScrolled": "50",
+     "totalUsers": 176
+    },
+    {
+     "contentGroup": "inicio",
+     "percentScrolled": "50",
+     "totalUsers": 141
+    },
+    {
+     "contentGroup": "servicios",
+     "percentScrolled": "75",
+     "totalUsers": 126
+    },
+    {
+     "contentGroup": "inicio",
+     "percentScrolled": "75",
+     "totalUsers": 113
+    },
+    {
+     "contentGroup": "inicio",
+     "percentScrolled": "100",
+     "totalUsers": 40
+    },
+    {
+     "contentGroup": "servicios",
+     "percentScrolled": "100",
+     "totalUsers": 29
+    },
+    {
+     "contentGroup": "contacto",
+     "percentScrolled": "25",
+     "totalUsers": 10
+    },
+    {
+     "contentGroup": "contacto",
+     "percentScrolled": "50",
+     "totalUsers": 8
+    },
+    {
+     "contentGroup": "contacto",
+     "percentScrolled": "75",
+     "totalUsers": 7
+    },
+    {
+     "contentGroup": "contacto",
+     "percentScrolled": "100",
+     "totalUsers": 3
+    },
+    {
+     "contentGroup": "libro_reclamaciones",
+     "percentScrolled": "100",
+     "totalUsers": 1
+    },
+    {
+     "contentGroup": "libro_reclamaciones",
+     "percentScrolled": "25",
+     "totalUsers": 1
+    },
+    {
+     "contentGroup": "libro_reclamaciones",
+     "percentScrolled": "50",
+     "totalUsers": 1
+    },
+    {
+     "contentGroup": "libro_reclamaciones",
+     "percentScrolled": "75",
+     "totalUsers": 1
+    }
+   ],
+   "dispositivos": [
+    {
+     "deviceCategory": "mobile",
+     "activeUsers": 1173,
+     "sessions": 1411
+    },
+    {
+     "deviceCategory": "desktop",
+     "activeUsers": 49,
+     "sessions": 83
+    },
+    {
+     "deviceCategory": "tablet",
+     "activeUsers": 5,
+     "sessions": 5
+    }
+   ],
+   "ciudades": [
+    {
+     "city": "(not set)",
+     "country": "Peru",
+     "activeUsers": 759
+    },
+    {
+     "city": "Arequipa",
+     "country": "Peru",
+     "activeUsers": 113
+    },
+    {
+     "city": "Trujillo",
+     "country": "Peru",
+     "activeUsers": 41
+    },
+    {
+     "city": "Cusco",
+     "country": "Peru",
+     "activeUsers": 37
+    },
+    {
+     "city": "Paucarpata",
+     "country": "Peru",
+     "activeUsers": 27
+    },
+    {
+     "city": "Cerro Colorado",
+     "country": "Peru",
+     "activeUsers": 26
+    },
+    {
+     "city": "Jose Luis Bustamante",
+     "country": "Peru",
+     "activeUsers": 24
+    },
+    {
+     "city": "Chiclayo",
+     "country": "Peru",
+     "activeUsers": 21
+    },
+    {
+     "city": "Piura",
+     "country": "Peru",
+     "activeUsers": 20
+    },
+    {
+     "city": "Cayma",
+     "country": "Peru",
+     "activeUsers": 18
+    },
+    {
+     "city": "Ica",
+     "country": "Peru",
+     "activeUsers": 13
+    },
+    {
+     "city": "Santiago",
+     "country": "Chile",
+     "activeUsers": 11
+    },
+    {
+     "city": "Chimbote",
+     "country": "Peru",
+     "activeUsers": 8
+    },
+    {
+     "city": "Huancayo",
+     "country": "Peru",
+     "activeUsers": 8
+    },
+    {
+     "city": "Mariano Melgar",
+     "country": "Peru",
+     "activeUsers": 7
+    },
+    {
+     "city": "Alto Selva Alegre",
+     "country": "Peru",
+     "activeUsers": 5
+    },
+    {
+     "city": "Jacobo Hunter",
+     "country": "Peru",
+     "activeUsers": 5
+    },
+    {
+     "city": "Santa Rosa",
+     "country": "Peru",
+     "activeUsers": 5
+    },
+    {
+     "city": "Tacna",
+     "country": "Peru",
+     "activeUsers": 5
+    },
+    {
+     "city": "Yanahuara",
+     "country": "Peru",
+     "activeUsers": 5
+    }
+   ],
+   "paises": [
+    {
+     "country": "Peru",
+     "activeUsers": 1119
+    },
+    {
+     "country": "United States",
+     "activeUsers": 27
+    },
+    {
+     "country": "Chile",
+     "activeUsers": 15
+    },
+    {
+     "country": "Mexico",
+     "activeUsers": 9
+    },
+    {
+     "country": "Spain",
+     "activeUsers": 7
+    },
+    {
+     "country": "Colombia",
+     "activeUsers": 6
+    },
+    {
+     "country": "Australia",
+     "activeUsers": 5
+    },
+    {
+     "country": "Ecuador",
+     "activeUsers": 4
+    },
+    {
+     "country": "Germany",
+     "activeUsers": 4
+    },
+    {
+     "country": "Iraq",
+     "activeUsers": 4
+    },
+    {
+     "country": "Netherlands",
+     "activeUsers": 4
+    },
+    {
+     "country": "Argentina",
+     "activeUsers": 3
+    },
+    {
+     "country": "Bahrain",
+     "activeUsers": 2
+    },
+    {
+     "country": "Bangladesh",
+     "activeUsers": 2
+    },
+    {
+     "country": "France",
+     "activeUsers": 2
+    },
+    {
+     "country": "Italy",
+     "activeUsers": 2
+    },
+    {
+     "country": "Austria",
+     "activeUsers": 1
+    },
+    {
+     "country": "Brazil",
+     "activeUsers": 1
+    },
+    {
+     "country": "Canada",
+     "activeUsers": 1
+    },
+    {
+     "country": "Georgia",
+     "activeUsers": 1
+    }
+   ],
+   "horas": [
+    {
+     "hour": "0",
+     "sessions": 81
+    },
+    {
+     "hour": "1",
+     "sessions": 33
+    },
+    {
+     "hour": "10",
+     "sessions": 81
+    },
+    {
+     "hour": "11",
+     "sessions": 83
+    },
+    {
+     "hour": "12",
+     "sessions": 87
+    },
+    {
+     "hour": "13",
+     "sessions": 61
+    },
+    {
+     "hour": "14",
+     "sessions": 75
+    },
+    {
+     "hour": "15",
+     "sessions": 81
+    },
+    {
+     "hour": "16",
+     "sessions": 84
+    },
+    {
+     "hour": "17",
+     "sessions": 71
+    },
+    {
+     "hour": "18",
+     "sessions": 87
+    },
+    {
+     "hour": "19",
+     "sessions": 72
+    },
+    {
+     "hour": "2",
+     "sessions": 24
+    },
+    {
+     "hour": "20",
+     "sessions": 77
+    },
+    {
+     "hour": "21",
+     "sessions": 86
+    },
+    {
+     "hour": "22",
+     "sessions": 120
+    },
+    {
+     "hour": "23",
+     "sessions": 86
+    },
+    {
+     "hour": "3",
+     "sessions": 10
+    },
+    {
+     "hour": "4",
+     "sessions": 12
+    },
+    {
+     "hour": "5",
+     "sessions": 13
+    },
+    {
+     "hour": "6",
+     "sessions": 41
+    },
+    {
+     "hour": "7",
+     "sessions": 56
+    },
+    {
+     "hour": "8",
+     "sessions": 68
+    },
+    {
+     "hour": "9",
+     "sessions": 88
+    }
+   ],
+   "diasSemana": [
+    {
+     "dayOfWeek": "0",
+     "sessions": 101
+    },
+    {
+     "dayOfWeek": "1",
+     "sessions": 219
+    },
+    {
+     "dayOfWeek": "2",
+     "sessions": 196
+    },
+    {
+     "dayOfWeek": "3",
+     "sessions": 267
+    },
+    {
+     "dayOfWeek": "4",
+     "sessions": 243
+    },
+    {
+     "dayOfWeek": "5",
+     "sessions": 336
+    },
+    {
+     "dayOfWeek": "6",
+     "sessions": 140
+    }
+   ],
+   "nuevos": [
+    {
+     "newVsReturning": "new",
+     "activeUsers": 1198
+    },
+    {
+     "newVsReturning": "returning",
+     "activeUsers": 169
+    }
+   ],
+   "redes": [
+    {
+     "social_network": "(not set)",
+     "eventCount": 19
+    }
+   ],
+   "formularios": [
+    {
+     "form_name": "(not set)",
+     "eventName": "form_begin",
+     "eventCount": 1,
+     "totalUsers": 1
+    },
+    {
+     "form_name": "(not set)",
+     "eventName": "form_error",
+     "eventCount": 1,
+     "totalUsers": 1
+    }
+   ]
+  }
+ },
+ "historia": {
+  "visitas": [
+   {
+    "yearMonth": "202606",
+    "activeUsers": 389,
+    "newUsers": 383,
+    "sessions": 469,
+    "screenPageViews": 1091
+   },
+   {
+    "yearMonth": "202607",
+    "activeUsers": 258,
+    "newUsers": 243,
+    "sessions": 293,
+    "screenPageViews": 638
+   },
+   {
+    "yearMonth": "202608",
+    "activeUsers": 648,
+    "newUsers": 615,
+    "sessions": 719,
+    "screenPageViews": 1602
+   },
+   {
+    "yearMonth": "202609",
+    "activeUsers": 308,
+    "newUsers": 283,
+    "sessions": 373,
+    "screenPageViews": 837
+   },
+   {
+    "yearMonth": "202610",
+    "activeUsers": 321,
+    "newUsers": 302,
+    "sessions": 420,
+    "screenPageViews": 977
+   },
+   {
+    "yearMonth": "202611",
+    "activeUsers": 136,
+    "newUsers": 127,
+    "sessions": 170,
+    "screenPageViews": 366
+   }
+  ],
+  "leads": [
+   {
+    "yearMonth": "202606",
+    "totalUsers": 65
+   },
+   {
+    "yearMonth": "202607",
+    "totalUsers": 48
+   },
+   {
+    "yearMonth": "202608",
+    "totalUsers": 174
+   },
+   {
+    "yearMonth": "202609",
+    "totalUsers": 80
+   },
+   {
+    "yearMonth": "202610",
+    "totalUsers": 119
+   },
+   {
+    "yearMonth": "202611",
+    "totalUsers": 38
+   }
+  ]
+ }
+}
